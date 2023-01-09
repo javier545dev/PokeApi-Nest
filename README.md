@@ -17,7 +17,7 @@ yarn install
 npm i -g @nestjs/cli
 ```
 
-4. Levantar la base de datos
+4. Levantar la base de datos en docker
 
 ```
 docker-compose up -d
